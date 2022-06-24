@@ -1,0 +1,10 @@
+export const FONT_FAMILY_REGULAR = 'Poppins-Regular';
+export const FONT_FAMILY_MEDIUM = 'Poppins-Medium';
+export const FONT_BOLD = 'Poppins-Bold';
+export const _BLACK = '#1A1A1A';
+export const _WHITE = '#fff';
+export const PRIMARY_COLOR = 'rgba(41, 69, 255, 1)';
+export const PRIMARY_COLOR_LITE = 'rgba(41, 69, 255, 0.65)';
+export const UNDERLINE_COLOR = 'rgba(39, 67, 253, 1)';
+export const PLACEHOLDER_COLOR = 'rgba(185, 185, 185, 1)';
+export const SEPARATOR_COLOR = 'rgba(58, 58, 58, 1)';
